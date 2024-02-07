@@ -1,0 +1,17 @@
+{
+  "name": "microweber-modules/sales-iq",
+  "description": "Sales IQ",
+  "license": "MIT",
+  "homepage": "https://microweber.org/modules/microweber-modules/sales-iq",
+  "authors": [
+    {
+      "name": "Bozhidar Slaveykov",
+      "email": "bobi@microweber.com"
+    }
+  ],
+  "keywords": [
+    "salesiq.zoho.com"
+  ],
+  "type": "microweber-module",
+  "target-dir": "sales-iq"
+}

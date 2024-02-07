@@ -1,1 +1,1 @@
-# sales-iq
+# Sales IQ
